@@ -1228,6 +1228,10 @@ input:checked + .toggle-bg{
   margin-top: 69px;
 }
 
+.ml-0{
+  margin-left: 0px;
+}
+
 .block{
   display: block;
 }
@@ -2481,6 +2485,10 @@ input:checked + .toggle-bg{
 }
 
 @media (min-width: 1280px){
+  .xl\:ml-80{
+    margin-left: 20rem;
+  }
+
   .xl\:flex{
     display: flex;
   }

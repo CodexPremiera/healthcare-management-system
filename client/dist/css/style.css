@@ -1192,10 +1192,6 @@ input:checked + .toggle-bg{
   margin-left: 1.25rem;
 }
 
-.ml-8{
-  margin-left: 2rem;
-}
-
 .ml-auto{
   margin-left: auto;
 }
@@ -1228,8 +1224,8 @@ input:checked + .toggle-bg{
   margin-top: 69px;
 }
 
-.ml-0{
-  margin-left: 0px;
+.ml-80{
+  margin-left: 20rem;
 }
 
 .block{
@@ -1809,10 +1805,6 @@ input:checked + .toggle-bg{
   padding-top: 0.5rem;
 }
 
-.pt-3{
-  padding-top: 0.75rem;
-}
-
 .pt-4{
   padding-top: 1rem;
 }
@@ -1831,18 +1823,6 @@ input:checked + .toggle-bg{
 
 .pt-\[7rem\]{
   padding-top: 7rem;
-}
-
-.pt-\[6rem\]{
-  padding-top: 6rem;
-}
-
-.pt-\[6\.5rem\]{
-  padding-top: 6.5rem;
-}
-
-.pt-\[4rem\]{
-  padding-top: 4rem;
 }
 
 .text-left{
@@ -2061,11 +2041,6 @@ input:checked + .toggle-bg{
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.shadow-black\/5{
-  --tw-shadow-color: rgb(0 0 0 / 0.05);
-  --tw-shadow: var(--tw-shadow-colored);
-}
-
 .outline{
   outline-style: solid;
 }
@@ -2142,32 +2117,6 @@ input:checked + .toggle-bg{
     margin-left: 0px;
     width: 100%;
   }
-}
-
-.before\:mr-3::before{
-  content: var(--tw-content);
-  margin-right: 0.75rem;
-}
-
-.before\:h-1::before{
-  content: var(--tw-content);
-  height: 0.25rem;
-}
-
-.before\:w-1::before{
-  content: var(--tw-content);
-  width: 0.25rem;
-}
-
-.before\:rounded-full::before{
-  content: var(--tw-content);
-  border-radius: 9999px;
-}
-
-.before\:bg-gray-300::before{
-  content: var(--tw-content);
-  --tw-bg-opacity: 1;
-  background-color: rgb(209 213 219 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:border-gray-300:hover{
@@ -2279,30 +2228,6 @@ input:checked + .toggle-bg{
 .focus\:ring-white:focus{
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(255 255 255 / var(--tw-ring-opacity, 1));
-}
-
-.group.selected .group-\[\.selected\]\:block{
-  display: block;
-}
-
-.group.active .group-\[\.active\]\:bg-gray-800{
-  --tw-bg-opacity: 1;
-  background-color: rgb(31 41 55 / var(--tw-bg-opacity, 1));
-}
-
-.group.selected .group-\[\.selected\]\:bg-gray-950{
-  --tw-bg-opacity: 1;
-  background-color: rgb(3 7 18 / var(--tw-bg-opacity, 1));
-}
-
-.group.active .group-\[\.active\]\:text-white{
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
-}
-
-.group.selected .group-\[\.selected\]\:text-gray-100{
-  --tw-text-opacity: 1;
-  color: rgb(243 244 246 / var(--tw-text-opacity, 1));
 }
 
 .dark\:border-blue-500:is(.dark *){
@@ -2485,10 +2410,6 @@ input:checked + .toggle-bg{
 }
 
 @media (min-width: 1280px){
-  .xl\:ml-80{
-    margin-left: 20rem;
-  }
-
   .xl\:flex{
     display: flex;
   }

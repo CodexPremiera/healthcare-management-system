@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c0a7d00-cf02-4d95-8b92-49043309c4c7" name="Changes" comment="update ui">
+      <change beforePath="$PROJECT_DIR$/client/dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/dist/css/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="comandao-ui-changes" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CodexPremiera&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CodexPremiera/healthcare-management-system.git&quot;,
+    &quot;accountId&quot;: &quot;4e24dd1d-f250-43a3-b26b-f0b4763a8fe1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2p0E9TpALBptYywCacrA25wZFn6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.dashboard.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.digitalid.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.login.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PremieraAlpha/College/3rd_Year-First Semester/CSIT327 - Information Management 2/Capstone - Healthcare ID Management System/capstone-the-healthbook/client/pages&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PremieraAlpha\College\3rd_Year-First Semester\CSIT327 - Information Management 2\Capstone - Healthcare ID Management System\capstone-the-healthbook\client\pages" />
+      <recent name="D:\PremieraAlpha\College\3rd_Year-First Semester\CSIT327 - Information Management 2\Capstone - Healthcare ID Management System\capstone-the-healthbook\client\utils" />
+      <recent name="D:\PremieraAlpha\College\3rd_Year-First Semester\CSIT327 - Information Management 2\Capstone - Healthcare ID Management System\capstone-the-healthbook\client\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.capstone-the-healthbook">
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/capstone-the-healthbook/client/pages/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="capstone-the-healthbook" type="Python.DjangoServer" factoryName="Django server">
+      <module name="capstone-the-healthbook" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="JavaScript Debug.login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19072.16" />
+        <option value="bundled-python-sdk-8336bb23522e-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19072.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c0a7d00-cf02-4d95-8b92-49043309c4c7" name="Changes" comment="" />
+      <created>1731894443768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731894443768</updated>
+      <workItem from="1731894445680" duration="28195000" />
+      <workItem from="1731934526122" duration="132000" />
+      <workItem from="1732520705951" duration="4386000" />
+      <workItem from="1732525364569" duration="6073000" />
+      <workItem from="1732534594224" duration="10265000" />
+      <workItem from="1732588524561" duration="2294000" />
+      <workItem from="1732590923476" duration="1708000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix header and aside design">
+      <option name="closed" value="true" />
+      <created>1731909213133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731909213133</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix secondary navigation and profile overview design">
+      <option name="closed" value="true" />
+      <created>1731913656369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731913656369</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix medication history table design">
+      <option name="closed" value="true" />
+      <created>1731919721825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731919721825</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix vaccination history table design">
+      <option name="closed" value="true" />
+      <created>1731920427915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731920427915</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix family history table design">
+      <option name="closed" value="true" />
+      <created>1731921262090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731921262090</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix social history table design">
+      <option name="closed" value="true" />
+      <created>1731921510513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731921510513</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix surgical history table design">
+      <option name="closed" value="true" />
+      <created>1731922220583</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731922220583</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix allergy history table design">
+      <option name="closed" value="true" />
+      <created>1731922923688</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731922923688</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add responsiveness for dashboard from 1040px and above">
+      <option name="closed" value="true" />
+      <created>1731924648377</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731924648377</updated>
+    </task>
+    <task id="LOCAL-00010" summary="correct the name of provider_name_field">
+      <option name="closed" value="true" />
+      <created>1731934567363</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731934567363</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add responsiveness to sidebar">
+      <option name="closed" value="true" />
+      <created>1732541521622</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732541521622</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add responsiveness to digital ids page">
+      <option name="closed" value="true" />
+      <created>1732543428816</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732543428816</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correct to add fetch for patients in digital ids page">
+      <option name="closed" value="true" />
+      <created>1732543632530</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732543632530</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update ui">
+      <option name="closed" value="true" />
+      <created>1732592323619</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732592323619</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="comandao-ui-changes" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix header and aside design" />
+    <MESSAGE value="fix secondary navigation and profile overview design" />
+    <MESSAGE value="fix medication history table design" />
+    <MESSAGE value="fix vaccination history table design" />
+    <MESSAGE value="fix family history table design" />
+    <MESSAGE value="fix social history table design" />
+    <MESSAGE value="fix surgical history table design" />
+    <MESSAGE value="fix allergy history table design" />
+    <MESSAGE value="add responsiveness for dashboard from 1040px and above" />
+    <MESSAGE value="correct the name of provider_name_field" />
+    <MESSAGE value="add responsiveness to sidebar" />
+    <MESSAGE value="add responsiveness to digital ids page" />
+    <MESSAGE value="correct to add fetch for patients in digital ids page" />
+    <MESSAGE value="update ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ui" />
+  </component>
+</project>
